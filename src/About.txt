@@ -1,0 +1,5 @@
+Project Goals: 
+    - Refresh C++ skills
+    - Develop a more accurate Total Daily Energy Expenditure (TDEE) calculator
+What I learned:
+    -
