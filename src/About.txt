@@ -1,5 +1,11 @@
+Inspiration for Project:
+    - I invested in my health after college
+    - Wanted to create an effective program that others could use to more accurately estimate their Total Daily Energy Expenditure (TDEE)
+
+
 Project Goals: 
     - Refresh C++ skills
-    - Develop a more accurate Total Daily Energy Expenditure (TDEE) calculator
-What I learned:
-    -
+    - Develop a more accurate TDEE calculator
+
+What I have learned:
+    - Just starting out with a bare-bones project can inspire you to continually refine and improve upon your ideas
